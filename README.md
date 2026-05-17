@@ -4,7 +4,29 @@
 
 - 📫 How to reach me **dimasacs89@gmail.com**
 
-<div align="left">
-  <img height="130px" src="https://github-readme-stats.vercel.app/api?username=CandraJengger&show_icons=trueline_height=21&theme=dark" />
-  <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=CandraJengger&show_icons=trueline_height=21&layout=compact&theme=dark" />
-</div>
+<p align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=CandraJengger&show_icons=true&theme=transparent&hide_border=true&title_color=6b7280&text_color=6b7280&icon_color=111827"
+  />
+
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CandraJengger&layout=compact&theme=transparent&hide_border=true&title_color=6b7280&text_color=6b7280"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=CandraJengger&theme=transparent&hide_border=true&ring=111827&fire=111827&currStreakLabel=6b7280"
+  />
+</p>
+
+---
+
+```txt
+while(alive) {
+  code();
+  fix_bug();
+  create_new_bug();
+}
