@@ -26,11 +26,13 @@
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CandraJengger&theme=transparent"
+    height="180em" 
+    src="https://denvercoder1-github-readme-stats.vercel.app/api?username=CandraJengger&show_icons=true&theme=transparent&hide_border=true&title_color=6b7280&text_color=6b7280&icon_color=111827&include_all_commits=true"
     alt="GitHub Stats"
   />
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CandraJengger&theme=transparent"
+    height="180em" 
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=CandraJengger&layout=compact&theme=transparent&hide_border=true&title_color=6b7280&text_color=6b7280"
     alt="Top Languages"
   />
 </p>
