@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/CandraJengger">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Building+Laravel+Filament+panels...;Drawing+with+RoughJS+(Sketchy-UI);Creating+new+bugs+in+TypeScript...;Fixing+those+bugs+in+NestJS...;Waiting+for+the+roosters+to+stop...;Software+Engineer+living+in+a+village+%F0%9F%8C%B1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Hoping+life+is+as+cool+as+my+code...;Drawing+with+RoughJS+(Sketchy-UI);Creating+new+bugs+in+TypeScript...;Fixing+those+bugs+in+NestJS...;Waiting+for+the+roosters+to+stop...;Software+Engineer+living+in+a+village+%F0%9F%8C%B1" alt="Typing SVG" />
   </a>
 </p>
 
@@ -26,13 +26,11 @@
 
 <p align="center">
   <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=CandraJengger&show_icons=true&theme=transparent&hide_border=true&title_color=6b7280&text_color=6b7280&icon_color=111827&include_all_commits=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CandraJengger&theme=transparent"
     alt="GitHub Stats"
   />
   <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CandraJengger&layout=compact&theme=transparent&hide_border=true&title_color=6b7280&text_color=6b7280"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CandraJengger&theme=transparent"
     alt="Top Languages"
   />
 </p>
